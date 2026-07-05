@@ -1,5 +1,6 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins+Code&pause=1000&random=false&width=445&lines=Hello+,+I’m+Lívea;Welcome+to+my+github&color=FFFFFF)](https://git.io/typing-svg)
-<img src="https://githubusercontent.com" width="100%">
+<img width="360" height="23" alt="Arrow 1" src="https://github.com/user-attachments/assets/3cd3f312-c2ce-41a3-a251-e5aaad9dd58c" />
 
 
 <!--
