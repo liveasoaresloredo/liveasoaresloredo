@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins+Code&color=FFFFFF&pause=1000&random=false&width=300&size=24&lines=Hello,+I’m+Lívea;Welcome+to+my+github)](https://git.io/typing-svg)
 ---
-<img width="250" height="100" alt="bouncing-circles" src="https://github.com/user-attachments/assets/e38992b1-4d69-4633-a68c-76dad63e4027" />
+<img width="300" height="100" alt="bouncing-circles" src="https://github.com/user-attachments/assets/e38992b1-4d69-4633-a68c-76dad63e4027" />
 
 
 <!--
