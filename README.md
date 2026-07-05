@@ -1,13 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins+Code&color=FFFFFF&pause=1000&random=false&width=300&size=24&lines=Hello,+I’m+Lívea;Welcome+to+my+github)](https://git.io/typing-svg)
 ---
-<p align="center">
-  <a href="SEU_LINK_AQUI">
-    <button style="width: 60%; padding: 15px; background: linear-gradient(to right, #FFD700, #1E1F29); color: white; border: none; border-radius: 8px; font-size: 16px; font-weight: bold; cursor: pointer;">
-      ☀️ Day & Night 🌙
-    </button>
-  </a>
-</p>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200"><circle fill="#FF156D" stroke="#FF156D" stroke-width="15" r="15" cx="40" cy="65"><animate attributeName="cy" calcMode="spline" dur="2" values="65;135;65;" keySplines=".5 0 .5 1;.5 0 .5 1" repeatCount="indefinite" begin="-.4"></animate></circle><circle fill="#FF156D" stroke="#FF156D" stroke-width="15" r="15" cx="100" cy="65"><animate attributeName="cy" calcMode="spline" dur="2" values="65;135;65;" keySplines=".5 0 .5 1;.5 0 .5 1" repeatCount="indefinite" begin="-.2"></animate></circle><circle fill="#FF156D" stroke="#FF156D" stroke-width="15" r="15" cx="160" cy="65"><animate attributeName="cy" calcMode="spline" dur="2" values="65;135;65;" keySplines=".5 0 .5 1;.5 0 .5 1" repeatCount="indefinite" begin="0"></animate></circle></svg>
 
 <!--
 **liveasoaresloredo/liveasoaresloredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
