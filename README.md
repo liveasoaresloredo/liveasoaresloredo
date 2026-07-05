@@ -1,6 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins+Code&pause=1000&random=false&width=445&lines=Hello+,+I’m+Lívea;Welcome+to+my+github&color=FFFFFF)](https://git.io/typing-svg)
----
-
 <hr style="border: 3px solid gray">
 
 
