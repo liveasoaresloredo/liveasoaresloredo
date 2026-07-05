@@ -1,8 +1,7 @@
-<img width="150" height="150" alt="bouncing-circles" src="https://github.com/user-attachments/assets/e38992b1-4d69-4633-a68c-76dad63e4027" />
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins+Code&color=FFFFFF&pause=1000&random=false&width=300&size=24&lines=Hello,+I’m+Lívea;Welcome+to+my+github)](https://git.io/typing-svg)
 ---
-<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 200'><circle fill='#FF156D' stroke='#FF156D' stroke-width='15' r='15' cx='40' cy='65'><animate attributeName='cy' calcMode='spline' dur='2' values='65;135;65;' keySplines='.5 0 .5 1;.5 0 .5 1' repeatCount='indefinite' begin='-.4'></animate></circle><circle fill='#FF156D' stroke='#FF156D' stroke-width='15' r='15' cx='100' cy='65'><animate attributeName='cy' calcMode='spline' dur='2' values='65;135;65;' keySplines='.5 0 .5 1;.5 0 .5 1' repeatCount='indefinite' begin='-.2'></animate></circle><circle fill='#FF156D' stroke='#FF156D' stroke-width='15' r='15' cx='160' cy='65'><animate attributeName='cy' calcMode='spline' dur='2' values='65;135;65;' keySplines='.5 0 .5 1;.5 0 .5 1' repeatCount='indefinite' begin='0'></animate></circle></svg>
-![Uploading bouncing-circles.svg…]()
+<img width="150" height="150" alt="bouncing-circles" src="https://github.com/user-attachments/assets/e38992b1-4d69-4633-a68c-76dad63e4027" />
+
 
 <!--
 **liveasoaresloredo/liveasoaresloredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
