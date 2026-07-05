@@ -1,5 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins+Code&color=FFFFFF&pause=1000&random=false&width=300&size=24&lines=Hello,+I’m+Lívea;Welcome+to+my+github)](https://git.io/typing-svg)
 ---
+<p align="center">
+  <a href="SEU_LINK_AQUI">
+    <button style="width: 60%; padding: 15px; background: linear-gradient(to right, #FFD700, #1E1F29); color: white; border: none; border-radius: 8px; font-size: 16px; font-weight: bold; cursor: pointer;">
+      ☀️ Day & Night 🌙
+    </button>
+  </a>
+</p>
 
 
 <!--
